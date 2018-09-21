@@ -1,4 +1,4 @@
-# Ruby Cheat Sheet
+# Ruby Cheat-Sheet
 
 ## Arrays
 
