@@ -23,3 +23,7 @@ x - y            # => [4]
 ```ruby
 [1, 1, 2, 4].reject { |v| v == 1 } # => 1, 4
 ```
+
+## ERB Templating
+
+- [An Introduction to ERB Templating](https://www.stuartellis.name/articles/erb/)
