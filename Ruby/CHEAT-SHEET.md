@@ -1,5 +1,15 @@
 # Ruby Cheat-Sheet
 
+## Gems
+
+Download only
+
+```shell
+gem fetch psych
+gem fetch psych -v 3.0.2
+gem fetch psych -v 3.0.2 --platform x64-mingw32
+```
+
 ## Arrays
 
 ### Intersection/Union/Difference
