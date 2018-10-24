@@ -38,6 +38,7 @@ x - y            # => [4]
 
 - [The Power of Ruby's Case Statement](http://blog.molawson.com/the-power-of-ruby-s-case-statement)
   > Features `procs` and `lambdas`.
+- [The Many Uses Of Ruby Case Statements](https://www.rubyguides.com/2015/10/ruby-case/)
 
 
 ## ERB Templating
