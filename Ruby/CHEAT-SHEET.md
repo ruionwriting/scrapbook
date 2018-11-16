@@ -40,7 +40,10 @@ x - y            # => [4]
   > Features `procs` and `lambdas`.
 - [The Many Uses Of Ruby Case Statements](https://www.rubyguides.com/2015/10/ruby-case/)
 
-
 ## ERB Templating
 
 - [An Introduction to ERB Templating](https://www.stuartellis.name/articles/erb/)
+
+## Commands Execution
+
+- [5 ways to run commands from Ruby](https://mentalized.net/journal/2010/03/08/5-ways-to-run-commands-from-ruby/)
