@@ -1,5 +1,9 @@
 # Ruby
 
+## Metaprogramming
+
+* https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
+
 ## Code Quality
 
 * https://github.com/rubocop-hq/rubocop
