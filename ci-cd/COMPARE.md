@@ -27,3 +27,5 @@
 ## References
 
 * [Wikipedia: Comparison of continuous integration software](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software).
+* [Jenkins vs Travis CI vs Circle CI vs TeamCity vs Codeship vs GitLab CI vs Bamboo
+](https://blog.takipi.com/jenkins-vs-travis-ci-vs-circle-ci-vs-teamcity-vs-codeship-vs-gitlab-ci-vs-bamboo/)
