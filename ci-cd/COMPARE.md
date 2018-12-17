@@ -20,7 +20,7 @@
 | Windows builds | :heavy_check_mark: | :heavy_check_mark:<br/>[Oct/20018](https://blog.travis-ci.com/2018-10-11-windows-early-release) | :heavy_check_mark: | to-do | to-do |
 | Linux builds | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | to-do |
 | **CD** |
-| Kubernetes deploys | to-do | to-do | :heavy_check_mark: | to-do | to-do |
+| Kubernetes deploys | :heavy_check_mark:<br/>[possible](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine) | :heavy_check_mark:<br/>requires confirmation | :heavy_check_mark: | :heavy_check_mark:<br/>[not native?](https://community.atlassian.com/t5/Bamboo-questions/Bamboo-support-Kubernetes/qaq-p/420301) | :heavy_check_mark:<br/>[not native?](https://circleci.com/blog/k8s-deployments-with-cloudflare/) |
 | **Others** |
 | to-do | to-do | to-do | to-do | to-do | to-do |
 
