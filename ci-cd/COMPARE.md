@@ -4,25 +4,25 @@
 
 > Starting with the basics and main stream ones.
 
-| | Jenkins | Travis | GitLab | Bamboo |
-| --- | :---: | :---: | :---: | :---: |
+| | Jenkins | Travis | GitLab | Bamboo | Circle CI |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Overview** |
 | Launch year | 2011 ([2004](https://en.wikipedia.org/wiki/Jenkins_(software))) | 2011 | 2011 | 2007 |
-| Website | [Jenkins.io](https://jenkins.io/) | [travis.ci.org](https://travis-ci.org/) | [GitLab.com](https://about.gitlab.com/) | [Bamboo](https://www.atlassian.com/software/bamboo) |
+| Website | [Jenkins.io](https://jenkins.io/) | [travis.ci.org](https://travis-ci.org/) | [GitLab.com](https://about.gitlab.com/) | [Bamboo](https://www.atlassian.com/software/bamboo) | [circleci.com](https://circleci.com/)
 | Popularity | to-do | to-do | to-do | to-do |
-| Source | to-do | to-do | to-do | to-do |
-| Runtime(s) | to-do | to-do | to-do | to-do |
-| License | to-do | MIT | to-do | to-do |
+| Source | to-do | to-do | to-do | to-do | to-do |
+| Runtime(s) | to-do | to-do | to-do | to-do | to-do |
+| License | to-do | MIT | to-do | to-do | to-do |
 | **Deployment** |
 | Hosted | to-do | :heavy_check_mark: | :heavy_check_mark: | to-do |
-| On premises | to-do | :x: | :heavy_check_mark: | to-do |
+| On premises | to-do | :x: | :heavy_check_mark: | to-do | to-do |
 | **CI** |
-| Windows builds | :heavy_check_mark: | :heavy_check_mark: [Oct/20018](https://blog.travis-ci.com/2018-10-11-windows-early-release) | :heavy_check_mark: | to-do |
-| Linux builds | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Windows builds | :heavy_check_mark: | :heavy_check_mark: [Oct/20018](https://blog.travis-ci.com/2018-10-11-windows-early-release) | :heavy_check_mark: | to-do | to-do |
+| Linux builds | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | to-do |
 | **CD** |
-| to-do | to-do | to-do | to-do | to-do |
+| to-do | to-do | to-do | to-do | to-do | to-do |
 | **Others** |
-| to-do | to-do | to-do | to-do | to-do |
+| to-do | to-do | to-do | to-do | to-do | to-do |
 
 ## References
 
