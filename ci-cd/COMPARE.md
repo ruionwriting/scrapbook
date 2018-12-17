@@ -17,7 +17,7 @@
 | Hosted | to-do | :heavy_check_mark: | :heavy_check_mark: | to-do |
 | On premises | to-do | :x: | :heavy_check_mark: | to-do |
 | **CI** |
-| Windows builds | :heavy_check_mark: | :heavy_check_mark: [ref](https://blog.travis-ci.com/2018-10-11-windows-early-release) | :heavy_check_mark: | to-do |
+| Windows builds | :heavy_check_mark: | :heavy_check_mark: [Oct/20018](https://blog.travis-ci.com/2018-10-11-windows-early-release) | :heavy_check_mark: | to-do |
 | Linux builds | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **CD** |
 | to-do | to-do | to-do | to-do | to-do |
