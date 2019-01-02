@@ -4,6 +4,10 @@
 
 - [The Cloud Native Computing Foundation](https://www.cncf.io/)
 
+## Libraries
+
+- [fog - The Ruby cloud services library](http://fog.io/)
+
 ## Tools
 
 ### Lifecycle and Management
