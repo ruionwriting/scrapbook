@@ -1,5 +1,9 @@
 # Ruby
 
+## Bundler
+
+* [Bundler's Purpose and Rationale](https://bundler.io/v1.3/rationale.html)
+
 ## Metaprogramming
 
 * https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
