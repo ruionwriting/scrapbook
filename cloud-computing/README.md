@@ -4,6 +4,10 @@
 
 - [The Cloud Native Computing Foundation](https://www.cncf.io/)
 
+## Serverless
+
+- [Serverless Computing: One Step Forward, Two Steps Back](http://cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf)
+
 ## Libraries
 
 - [fog - The Ruby cloud services library](http://fog.io/)
