@@ -4,4 +4,5 @@
 
 ## Usefull Links
 
+* [Quick Start](https://davidbegin.github.io/terragrunt/)
 * [Module Registry](https://registry.terraform.io/)
