@@ -83,6 +83,12 @@ resource "aws_subnet" "eu-west-1a-rui-marques-learning-public" {
 
 1. **What is terraform not?**
   > Terraform is not fit to do configuration management on the software on your machines. Ansible/Chef/Puppet/Salt are better alternatives to do that. Terraform can work together with these tools to provide you CI on your machines. Terraform provides Configuration Management on an infrastructure level, not on the level of software of your machines.
+  
+## Advanced
+
+### Chef Provisioner
+
+- [Using the Chef provisioner with Terraform](https://sdbrett.com/BrettsITBlog/2017/08/using-the-chef-provisioner-with-terraform/)
 
 ## Courses
 
