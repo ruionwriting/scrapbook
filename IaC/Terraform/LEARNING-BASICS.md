@@ -79,6 +79,11 @@ resource "aws_subnet" "eu-west-1a-rui-marques-learning-public" {
 }
 ```
 
+## Reminders
+
+1. **What is terraform not?**
+  > Terraform is not fit to do configuration management on the software on your machines. Ansible/Chef/Puppet/Salt are better alternatives to do that. Terraform can work together with these tools to provide you CI on your machines. Terraform provides Configuration Management on an infrastructure level, not on the level of software of your machines.
+
 ## Courses
 
 - [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/)
