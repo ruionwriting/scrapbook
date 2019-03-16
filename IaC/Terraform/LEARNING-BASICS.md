@@ -49,6 +49,15 @@ resource "aws_instance" "example-rui-marques-learning" {
 }
 ```
 
+### Provisioners
+
+> Read the docs: [provisioners](https://www.terraform.io/docs/provisioners/index.html)
+
+1. `file`
+1. `chef`
+1. `remote-exec`
+1. etc
+
 ## Errors
 
 1. `Example in getting started guide fails because t2.micro requires a VPC`. The [solution](https://github.com/hashicorp/terraform/issues/4367) is to add the VPC (and subnet) like this:
