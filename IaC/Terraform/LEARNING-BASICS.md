@@ -95,6 +95,10 @@ resource "aws_subnet" "eu-west-1a-rui-marques-learning-public" {
 1. **What is terraform not?**
   > Terraform is not fit to do configuration management on the software on your machines. Ansible/Chef/Puppet/Salt are better alternatives to do that. Terraform can work together with these tools to provide you CI on your machines. Terraform provides Configuration Management on an infrastructure level, not on the level of software of your machines.
   
+## Questions
+
+1. Is it correct to assume that every time we need to change a resource details like SSH key (`key_name`) Terraform will recreate the instance resource?
+
 ## Advanced
 
 ### Chef Provisioner
