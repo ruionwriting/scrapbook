@@ -8,6 +8,14 @@ Simulate the changes. We can user `-out` to specifiy a file to save the plan int
 terraform plan
 ```
 
+```shell
+terraform plan -out out.terraform
+```
+
+```shell
+terraform apply out.terraform
+```
+
 Run's `plan` and `apply` (recommended for dev only). On completion applies the desired changes into the infrastrucuture.
 
 ```shell
