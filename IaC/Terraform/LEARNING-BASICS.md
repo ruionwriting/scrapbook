@@ -49,6 +49,8 @@ resource "aws_instance" "example-rui-marques-learning" {
 }
 ```
 
+`ec2_user` is the default user for Amazon Linux and `ubuntu` for Ubuntu Linux.
+
 ### Provisioners
 
 > Read the docs: [provisioners](https://www.terraform.io/docs/provisioners/index.html)
