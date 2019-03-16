@@ -14,6 +14,12 @@ Run's `plan` and `apply` (recommended for dev only). On completion applies the d
 terraform apply
 ```
 
+Destroy all things:
+
+```shell
+terraform destroy
+```
+
 ## Errors
 
 1. `Example in getting started guide fails because t2.micro requires a VPC`. The [solution](https://github.com/hashicorp/terraform/issues/4367) is to add the VPC (and subnet) like this:
