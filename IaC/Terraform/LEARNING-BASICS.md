@@ -2,6 +2,8 @@
 
 ## Cheat Sheet
 
+### Commands
+
 Simulate the changes. We can user `-out` to specifiy a file to save the plan into.
 
 ```shell
@@ -26,6 +28,25 @@ Destroy all things:
 
 ```shell
 terraform destroy
+```
+
+### AWS
+
+AWS resources `Name` column will have the value defined by the tag `Name`. Example:
+
+```terraform
+resource "aws_instance" "example-rui-marques-learning" {
+  ami           = "ami-08d658f84a6d84a80"
+  instance_type = "t2.micro"
+  subnet_id     = "${aws_subnet.eu-west-1a-rui-marques-learning-public.id}"
+
+  tags {
+    Name        = "EXAMPLE_RUI_MARQUES_LEARNING"
+    OWNER       = "Rui Marques"
+    USAGE       = "test/learning"
+    BUILT_BY    = "TERRAFORM"
+  }
+}
 ```
 
 ## Errors
