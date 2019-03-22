@@ -14,6 +14,10 @@
 
 ## Tools
 
+### Design and Architecture
+
+- [Cloudcraft](https://cloudcraft.co/)
+
 ### Lifecycle and Management
 
 - [Foreman](https://www.theforeman.org/)
