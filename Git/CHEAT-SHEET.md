@@ -19,3 +19,7 @@ $ git rebase -i <hash>
 ```
 
 Just follow the guide provided by git.
+
+## Manage
+
+[How to prune unwanted git branches](https://gist.github.com/zkiraly/c378a1a43d8be9c9a8f9)
