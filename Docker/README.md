@@ -7,7 +7,9 @@
 - [Portainer](https://portainer.io/)
 
   > PORTAINER IS AN OPEN-SOURCE LIGHTWEIGHT MANAGEMENT UI WHICH ALLOWS YOU TO EASILY MANAGE YOUR DOCKER HOSTS OR SWARM CLUSTERS
+- [QUAY](https://quay.io/)
 
+  > Quay [builds, analyzes, distributes] your container images
 
 ## Beginner Concepts
 
