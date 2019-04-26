@@ -4,6 +4,10 @@
 
 * [Bundler's Purpose and Rationale](https://bundler.io/v1.3/rationale.html)
 
+## Ioc
+
+* https://softwarebrothers.co/blog/how-rubyists-invert-control/
+
 ## Metaprogramming
 
 * https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
