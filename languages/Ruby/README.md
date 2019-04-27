@@ -4,7 +4,7 @@
 
 * [Bundler's Purpose and Rationale](https://bundler.io/v1.3/rationale.html)
 
-## Ioc
+## IoC
 
 * https://softwarebrothers.co/blog/how-rubyists-invert-control/
 
