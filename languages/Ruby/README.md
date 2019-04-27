@@ -8,6 +8,7 @@
 
 * https://softwarebrothers.co/blog/how-rubyists-invert-control/
 * BathRuby 2015 - Nothing is Something
+
   [![BathRuby 2015 - Nothing is Something](http://img.youtube.com/vi/9lv2lBq6x4A/0.jpg)](http://www.youtube.com/watch?v=9lv2lBq6x4A "BathRuby 2015 - Nothing is Something")
 
 ## Metaprogramming
