@@ -47,3 +47,8 @@ x - y            # => [4]
 ## Commands Execution
 
 - [5 ways to run commands from Ruby](https://mentalized.net/journal/2010/03/08/5-ways-to-run-commands-from-ruby/)
+
+## Objects
+
+- [Ruby Getters and Setters](https://dev.to/ksato1995/ruby-getters-and-setters-1p30)
+- [How getter/setter methods work in Ruby](https://medium.com/@rondwalker22/how-getter-setter-methods-work-in-ruby-c5f5da07f99)
