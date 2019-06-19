@@ -52,3 +52,7 @@ x - y            # => [4]
 
 - [Ruby Getters and Setters](https://dev.to/ksato1995/ruby-getters-and-setters-1p30)
 - [How getter/setter methods work in Ruby](https://medium.com/@rondwalker22/how-getter-setter-methods-work-in-ruby-c5f5da07f99)
+
+## defined keyword
+
+- [How to Check If a Variable is Defined in Ruby](https://www.rubyguides.com/2018/10/defined-keyword/)
