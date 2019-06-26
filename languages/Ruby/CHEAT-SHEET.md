@@ -34,6 +34,10 @@ x - y            # => [4]
 [1, 1, 2, 4].reject { |v| v == 1 } # => 1, 4
 ```
 
+## Hashes
+
+- [Ruby Hashes Cheat Sheet](https://www.shortcutfoo.com/app/dojos/ruby-hashes/cheatsheet)
+
 ## Case
 
 - [The Power of Ruby's Case Statement](http://blog.molawson.com/the-power-of-ruby-s-case-statement)
