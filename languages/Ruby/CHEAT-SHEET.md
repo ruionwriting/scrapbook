@@ -44,6 +44,10 @@ x - y            # => [4]
   > Features `procs` and `lambdas`.
 - [The Many Uses Of Ruby Case Statements](https://www.rubyguides.com/2015/10/ruby-case/)
 
+## yield
+
+- [The yield Keyword in Ruby](https://medium.com/rubycademy/the-yield-keyword-603a850b8921)
+
 ## ERB Templating
 
 - [An Introduction to ERB Templating](https://www.stuartellis.name/articles/erb/)
