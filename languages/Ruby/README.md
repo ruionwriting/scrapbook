@@ -1,5 +1,9 @@
 # Ruby
 
+## Official Docs
+
+* [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/)
+
 ## Bundler
 
 * [Bundler's Purpose and Rationale](https://bundler.io/v1.3/rationale.html)
