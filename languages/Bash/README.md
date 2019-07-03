@@ -4,6 +4,10 @@
 
 - [Bash scripting cheatsheet](https://devhints.io/bash)
 
+## Testing
+
+- [Bash Automated Testing System](https://github.com/sstephenson/bats)
+
 ## Better Practices
 
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
