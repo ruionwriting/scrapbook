@@ -4,6 +4,10 @@
 
 * [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/)
 
+## Courses
+
+* [Ruby Beyond the Basics](https://app.pluralsight.com/library/courses/ruby-beyond-the-basics) on Pluralsight
+
 ## Bundler
 
 * [Bundler's Purpose and Rationale](https://bundler.io/v1.3/rationale.html)
