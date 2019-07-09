@@ -7,6 +7,7 @@
 ## Courses
 
 * [Ruby Beyond the Basics](https://app.pluralsight.com/library/courses/ruby-beyond-the-basics) on Pluralsight
+* [Idiomatic Ruby](https://app.pluralsight.com/library/courses/ruby-idiomatic) on Pluralsight
 
 ## Bundler
 
