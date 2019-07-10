@@ -1,5 +1,12 @@
 # Docker
 
+## Testing
+
+- [Integration Testing With Docker Compose](https://blog.harrison.dev/2016/06/19/integration-testing-with-docker-compose.html)
+- **[Testing Strategies for Docker Driven Development](https://codefresh.io/docker-tutorial/testing-strategies-for-docker/)**
+  - [Testing Strategies for Docker Containers](https://alexei-led.github.io/post/docker_testing/)
+ from Alexei (see video)
+ 
 ## Tools
 
 ### Container Management
