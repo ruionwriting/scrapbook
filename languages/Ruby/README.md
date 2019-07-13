@@ -13,14 +13,20 @@
 
 * [Bundler's Purpose and Rationale](https://bundler.io/v1.3/rationale.html)
 
-## IoC/DI/Composition
+## Patterns
+
+### Misc
+
+* [GoF design patterns in Ruby](https://github.com/davidgf/design-patterns-in-ruby)
+
+### IoC/DI/Composition
 
 * https://softwarebrothers.co/blog/how-rubyists-invert-control/
 * BathRuby 2015 - Nothing is Something
 
   [![BathRuby 2015 - Nothing is Something](http://img.youtube.com/vi/9lv2lBq6x4A/0.jpg)](http://www.youtube.com/watch?v=9lv2lBq6x4A "BathRuby 2015 - Nothing is Something")
 
-## Metaprogramming
+### Metaprogramming
 
 * https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
 * https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide
