@@ -30,7 +30,6 @@
 
 * https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
 * https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide
-* https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/
 * [It's All About the Self](https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
 
 ## Code Quality
