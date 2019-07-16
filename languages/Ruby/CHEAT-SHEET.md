@@ -4,6 +4,7 @@
 
 ### Minitest
 
+- [devhints.io](https://devhints.io/minitest)
 - [Minitest Cheat Sheet](https://www.rubypigeon.com/posts/minitest-cheat-sheet/)
 
   Setup:
