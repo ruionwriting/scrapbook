@@ -14,6 +14,10 @@
 
 [![How to motivate yourself to change your behavior | Tali Sharot | TEDxCambridge](http://img.youtube.com/vi/xp0O2vi8DX4/0.jpg)](http://www.youtube.com/watch?v=xp0O2vi8DX4 "How to motivate yourself to change your behavior | Tali Sharot | TEDxCambridge")
 
+### How to Motivate Others | THE BRENDON SHOW
+
+[![How to Motivate Others](http://img.youtube.com/vi/cetYtq-GUKc/0.jpg)](http://www.youtube.com/watch?v=cetYtq-GUKc "How to Motivate Others")
+
 ## Self Confidence
 
 ### The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU
