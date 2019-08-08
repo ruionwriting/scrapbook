@@ -6,6 +6,10 @@ A set of resources related with CI/CD practices and tooling.
 
 - [GitLab](./GitLab/README.md)
 
+## Toggles
+
+- [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
+
 ## Articles
 
 ### Continuos Delivery
