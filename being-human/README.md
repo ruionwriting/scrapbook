@@ -8,6 +8,12 @@
 
 [![How to Have a Good Conversation | Celeste Headlee | TEDxCreativeCoast](http://img.youtube.com/vi/H6n3iNh4XLI/0.jpg)](http://www.youtube.com/watch?v=H6n3iNh4XLI "How to Have a Good Conversation | Celeste Headlee | TEDxCreativeCoast")
 
+## Hapiness
+
+### The happy secret to better work | Shawn Achor
+
+[![The happy secret to better work | Shawn Achor](http://img.youtube.com/vi/fLJsdqxnZb0/0.jpg)](http://www.youtube.com/watch?v=fLJsdqxnZb0 "The happy secret to better work | Shawn Achor")
+
 ## Motivation
 
 ### How to motivate yourself to change your behavior | Tali Sharot | TEDxCambridge
