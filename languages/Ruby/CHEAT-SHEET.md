@@ -167,3 +167,7 @@ x - y            # => [4]
 ## defined keyword
 
 - [How to Check If a Variable is Defined in Ruby](https://www.rubyguides.com/2018/10/defined-keyword/)
+
+## Net::HTTP
+
+- [Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Edition)](https://yukimotopress.github.io/http)
