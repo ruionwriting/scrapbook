@@ -35,3 +35,9 @@
 ### Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound
 
 [![Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound](http://img.youtube.com/vi/u4ZoJKF_VuA/0.jpg)](http://www.youtube.com/watch?v=u4ZoJKF_VuA "Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound")
+
+## Collaboration
+
+### Yves Morieux: As work gets more complex, 6 rules to simplify
+
+[![Yves Morieux: As work gets more complex, 6 rules to simplify](http://img.youtube.com/vi/0MD4Ymjyc2I/0.jpg)](http://www.youtube.com/watch?v=0MD4Ymjyc2I "Yves Morieux: As work gets more complex, 6 rules to simplify")
