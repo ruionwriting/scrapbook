@@ -1,5 +1,9 @@
 # Cheat Sheet
 
+## Managing Repos
+
+[Splitting a subfolder out into a new repository](https://help.github.com/en/articles/splitting-a-subfolder-out-into-a-new-repository)
+
 ## Rebasing
 
 ### Interative Rebase
