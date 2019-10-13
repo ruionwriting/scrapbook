@@ -11,6 +11,7 @@
 ## Better Practices
 
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## Misc
 
