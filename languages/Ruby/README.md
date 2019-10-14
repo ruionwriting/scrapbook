@@ -39,3 +39,7 @@
 * https://github.com/seattlerb/debride
 * https://github.com/DamirSvrtan/fasterer
 * https://github.com/YorickPeterse/ruby-lint
+
+## Magic
+
+* [The Useful & Hidden '_' Command In Ruby](https://dev.to/edwinthinks/the-useful--hidden--command-in-ruby-dlo)
