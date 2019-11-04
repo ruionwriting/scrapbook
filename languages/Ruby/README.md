@@ -1,5 +1,21 @@
 # Ruby
 
+> Jump to [Cheat-Sheet](CHEAT-SHEET.md).
+
+<!-- TOC depthFrom:2 -->
+
+- [Official Docs](#official-docs)
+- [Courses](#courses)
+- [Bundler](#bundler)
+- [Patterns](#patterns)
+  - [Misc](#misc)
+  - [IoC/DI/Composition](#iocdicomposition)
+  - [Metaprogramming](#metaprogramming)
+- [Code Quality](#code-quality)
+- [Magic](#magic)
+
+<!-- /TOC -->
+
 ## Official Docs
 
 * [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/)

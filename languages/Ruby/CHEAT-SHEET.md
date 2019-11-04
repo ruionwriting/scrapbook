@@ -1,5 +1,26 @@
 # Ruby Cheat-Sheet
 
+<!-- TOC depthFrom:2 -->
+
+- [Testing](#testing)
+  - [Minitest](#minitest)
+- [Gems](#gems)
+- [Arrays](#arrays)
+  - [Intersection/Union/Difference](#intersectionuniondifference)
+  - [Reject elements](#reject-elements)
+- [Hashes](#hashes)
+- [Case](#case)
+- [yield](#yield)
+- [ERB Templating](#erb-templating)
+- [Commands Execution](#commands-execution)
+- [Objects](#objects)
+- [defined keyword](#defined-keyword)
+- [Net::HTTP](#nethttp)
+- [SemVer](#semver)
+  - [Articles](#articles)
+
+<!-- /TOC -->
+
 ## Testing
 
 ### Minitest
@@ -39,9 +60,9 @@
 
   end
   ```
-  
+
   Assertions:
-  
+
   ```Ruby
   class AssertionsTest < Minitest::Test
     def test_assertions
@@ -171,3 +192,9 @@ x - y            # => [4]
 ## Net::HTTP
 
 - [Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Edition)](https://yukimotopress.github.io/http)
+
+## SemVer
+
+### Articles
+
+- [How to compare semantic version strings in Ruby](https://medium.com/@edgar/how-to-compare-semantic-version-strings-in-ruby-95fbf067de32)
