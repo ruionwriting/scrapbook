@@ -9,6 +9,7 @@
 - [Bundler](#bundler)
 - [Patterns](#patterns)
   - [Misc](#misc)
+  - [Strategy Design Pattern](#strategy-design-pattern)
   - [IoC/DI/Composition](#iocdicomposition)
   - [Metaprogramming](#metaprogramming)
 - [Code Quality](#code-quality)
@@ -34,6 +35,12 @@
 ### Misc
 
 * [GoF design patterns in Ruby](https://github.com/davidgf/design-patterns-in-ruby)
+
+### Strategy Design Pattern
+
+* Strategy Design Pattern
+
+  [![Strategy Design Pattern](http://img.youtube.com/vi/zLgEtOl3eGQ/0.jpg)](http://www.youtube.com/watch?v=zLgEtOl3eGQ "Strategy Design Pattern")
 
 ### IoC/DI/Composition
 
