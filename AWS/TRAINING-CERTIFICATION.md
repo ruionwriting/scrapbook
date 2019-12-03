@@ -32,3 +32,24 @@ chmod 400 <pem-file>
 ```shell
 ssh -i <pem-file> ec2-user@<ec2-ip>
 ```
+
+Installing Node, before updating OS:
+
+```shell
+sudo yum update
+```
+
+Add source repository:
+
+```shell
+$ curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -
+
+...
+
+## Run `sudo yum install -y nodejs` to install Node.js 12.x and npm.
+## You may also need development tools to build native addons:
+     sudo yum install gcc-c++ make
+## To install the Yarn package manager, run:
+     curl -sL https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yum.repos.d/yarn.repo
+     sudo yum install yarn
+```
