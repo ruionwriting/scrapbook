@@ -8,7 +8,7 @@ Learning progress (completed):
 
 - [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture/table-of-contents). Pluralsight course.
 
-Learning progress (in-progress):
+### Learning Notes (temp)
 
 Test AWS CLI credentials:
   
