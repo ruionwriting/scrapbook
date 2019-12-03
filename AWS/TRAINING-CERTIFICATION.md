@@ -20,3 +20,15 @@ aws ec2 describe-instances --profile **PROFILE-NAME**
   "Reservations": []
 }
 ```
+
+SSH to EC2 instance:
+
+```shell
+chmod 400 <name>.pem
+```
+
+1st ensure that only we current user can read the file. Now SSH
+
+```shell
+ssh -i <name>.pem ec2-user@<IP>
+```
