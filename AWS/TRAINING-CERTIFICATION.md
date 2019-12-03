@@ -21,14 +21,14 @@ aws ec2 describe-instances --profile **PROFILE-NAME**
 }
 ```
 
-SSH to EC2 instance:
+Download keys and SSH to EC2 instance:
 
 ```shell
-chmod 400 <name>.pem
+chmod 400 <pem-file>
 ```
 
 1st ensure that only we current user can read the file. Now SSH
 
 ```shell
-ssh -i <name>.pem ec2-user@<IP>
+ssh -i <pem-file> ec2-user@<ec2-ip>
 ```
