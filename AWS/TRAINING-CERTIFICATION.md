@@ -53,3 +53,9 @@ $ curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -
      curl -sL https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yum.repos.d/yarn.repo
      sudo yum install yarn
 ```
+
+Copy sample Node project to EC2 instance:
+
+```shell
+scp -r -i <pem-file> ./<project-folder> ec2-user@<ec2-ip>:/home/ec2-user/<project-name>
+```
