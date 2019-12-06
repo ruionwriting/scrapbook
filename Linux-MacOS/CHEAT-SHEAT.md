@@ -10,6 +10,16 @@ Using `find` and `cpio` to copy files from a given source into a target folder k
 find . -name 'some-file-or-folder' | cpio -pdm /some/target/folder
 ```
 
+## Messing with strings
+
+Using `cut` to extract data from files on streams.
+
+> From https://www.geeksforgeeks.org/cut-command-linux-examples/.
+
+```shell
+cut OPTION... [FILE]...
+```
+
 ## Flush DNS
 
 From: https://documentation.cpanel.net/display/CKB/How+To+Clear+Your+DNS+Cache
