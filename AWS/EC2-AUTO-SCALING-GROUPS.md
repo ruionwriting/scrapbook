@@ -1,6 +1,6 @@
 # EC2 Auto Scaling Groups
 
-> Row notes on stuff I would to investigate more or learn more about it.
+> Raw notes on stuff I would to investigate more or learn more about it.
 
 
 ## Auto Scaling Lifecycle Hooks
