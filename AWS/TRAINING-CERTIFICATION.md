@@ -59,3 +59,14 @@ Copy sample Node project to EC2 instance:
 ```shell
 scp -r -i <pem-file> ./<project-folder> ec2-user@<ec2-ip>:/home/ec2-user/<project-name>
 ```
+
+Add load to test ASG (using ApacheBench on macOS against DNS name A-Record):
+
+> We might need to [Enable Auto Scaling Group Metrics](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-monitoring.html#as-enable-group-metrics).
+
+> We can use any other tool (Postman, for example).
+
+```shell
+ab -n 100 -c 5 http://LOAD_BALANCER_DNS_NAME/
+```
+
