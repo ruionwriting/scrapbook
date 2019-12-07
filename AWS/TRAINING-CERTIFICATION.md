@@ -60,6 +60,12 @@ Copy sample Node project to EC2 instance:
 scp -r -i <pem-file> ./<project-folder> ec2-user@<ec2-ip>:/home/ec2-user/<project-name>
 ```
 
+Override sample Node project to EC2 instance:
+
+```shell
+scp -r -i <pem-file> ./<project-folder> ec2-user@<ec2-ip>:/home/ec2-user
+```
+
 Add load to test ASG (using ApacheBench on macOS against DNS name A-Record):
 
 > We might need to [Enable Auto Scaling Group Metrics](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-monitoring.html#as-enable-group-metrics).
