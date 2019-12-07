@@ -1,5 +1,9 @@
 # AWS
 
+## Tools
+
+* [AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+
 ## Compute Engines
 
 ### Fargate
