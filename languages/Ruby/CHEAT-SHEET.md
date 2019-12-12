@@ -18,6 +18,7 @@
 - [Net::HTTP](#nethttp)
 - [SemVer](#semver)
   - [Articles](#articles)
+- [Strings](#strings)
 
 <!-- /TOC -->
 
@@ -198,3 +199,7 @@ x - y            # => [4]
 ### Articles
 
 - [How to compare semantic version strings in Ruby](https://medium.com/@edgar/how-to-compare-semantic-version-strings-in-ruby-95fbf067de32)
+
+## Strings
+
+- [Ruby Strings Cheat Sheet](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
