@@ -1,5 +1,11 @@
 # AWS
 
+## Resources and Billing
+
+* [Service Endpoints and Quotas](https://docs.aws.amazon.com/general/latest/gr/aws-service-information.html)
+* [Amazon EC2 Service Limits](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html)
+* [AWS Service Quotas](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
+
 ## Tools
 
 * [AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
