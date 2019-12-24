@@ -4,6 +4,10 @@
 
 YAML is a human-readable data serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored or transmitted.
 
+## Tools
+
+- [YAML Multiline, Find the right syntax for your YAML multiline strings](https://yaml-multiline.info/)
+
 ## Resources
 
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/yaml/). Yaml capabilities on a single example
