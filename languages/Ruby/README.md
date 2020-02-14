@@ -40,6 +40,7 @@
 ### Misc
 
 - [GoF design patterns in Ruby](https://github.com/davidgf/design-patterns-in-ruby)
+- [Refactoring Guru: DESIGN PATTERNS in RUBY](https://refactoring.guru/design-patterns/ruby)
 
 ### Strategy Design Pattern
 

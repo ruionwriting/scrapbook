@@ -19,6 +19,8 @@
 - [SemVer](#semver)
   - [Articles](#articles)
 - [Strings](#strings)
+- [Loops and Iterators](#loops-and-iterators)
+  - [Articles](#articles-1)
 
 <!-- /TOC -->
 
@@ -203,3 +205,9 @@ x - y            # => [4]
 ## Strings
 
 - [Ruby Strings Cheat Sheet](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
+
+## Loops and Iterators
+
+### Articles
+
+- [Loops and Iterators](http://www.dev-hq.net/ruby/7--loops-and-iterators)
