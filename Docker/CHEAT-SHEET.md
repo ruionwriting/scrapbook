@@ -11,12 +11,20 @@ The following example runs a local image `my-service-image:dev` and
 - Set the name of the container to `my-service` using the `--name` option
 - Define a volume with `-v` option mapping a local `$PKI_PATH` with the containers `/etc/pki`
 
-```bash
+```shell
 docker run --rm -it -p 8443:8443 \
   --env-file default.env \
   --name my-service \
   -v $PKI_PATH:/etc/pki \
   my-service-image:dev
+```
+
+## Cleanup
+
+Remove cached images by a specific name:
+
+```shell
+docker rmi $(docker images "*git*" -q)
 ```
 
 ## How-To
