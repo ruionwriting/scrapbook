@@ -9,6 +9,7 @@
 ## Articles
 
 - [Skyscrapers: Introducing our Concourse CI setup approach](https://skyscrapers.eu/insights/introducing-our-concourse-setup-approach)
+- [Continuous Delivery of a Microservice Architecture using Concourse.ci, Cloud Foundry and Artifactory](https://specify.io/how-tos/concourse-ci-continious-integration-and-delivery-of-microservices)
 
 
 ## Talks
