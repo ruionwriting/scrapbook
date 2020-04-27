@@ -11,3 +11,7 @@ A multi-faceted language for the Java platform. [Official website](https://groov
 ### Version Managers
 
 * [SDKMAN!](https://sdkman.io/) is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems.
+
+### Code Quality
+
+* [NPM GROOVY LINT](https://www.npmjs.com/package/npm-groovy-lint)
