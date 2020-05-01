@@ -1,5 +1,33 @@
 # Cheat Sheet
 
+## Cleanup 
+
+1st check what tou have around just in case:
+
+```shell
+git branch -a
+```
+
+Delete a local branch:
+
+```shell
+git branch -d <branch name>
+```
+
+Delete a remote branch:
+
+```shell
+git push origin --delete <branch name>
+```
+
+Clean/prune any local references to already deleted remote branchs:
+
+```shell
+git remote prune origin --dry-run
+```
+
+> `--dry-run` previous what is going to be removed. Run again without the switch to apply to prune.
+
 ## Managing Repos
 
 [Splitting a subfolder out into a new repository](https://help.github.com/en/articles/splitting-a-subfolder-out-into-a-new-repository)
@@ -37,4 +65,3 @@ Just follow the guide provided by git.
   | cut -c 1-12,41- \
   | $(command -v gnumfmt || echo numfmt) --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest
   ```
-
