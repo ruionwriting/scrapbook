@@ -4,6 +4,7 @@ A multi-faceted language for the Java platform. [Official website](https://groov
 
 ## Learning the basics
 
+* [My very own learning notes](BASICS.md)
 * [Groovy: Getting Started, Pluralsight](https://app.pluralsight.com/courses/632615c9-d977-400a-bc2e-0ae40fedffd8/table-of-contents)
 
 ## Tools
