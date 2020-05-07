@@ -64,3 +64,21 @@ Output:
 You have completed 6 activities today.
 you now have 5 activities remaining.
 ```
+
+## Working with objects
+
+### Types
+
+Example on how to [determine type of an object](https://code-maven.com/groovy-determine-type-of-object):
+
+```groovy
+def obj = ["question", 42, 'answer']
+ 
+println obj.getClass()   // class java.util.ArrayList
+ 
+println (obj instanceof List)                   // true
+println (obj instanceof java.util.ArrayList)    // true
+ 
+println (obj.getClass() == List)                // false
+println (obj.getClass() == java.util.ArrayList) // true
+```
