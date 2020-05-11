@@ -1,6 +1,26 @@
 # Vagrant
 
-### Troubleshooting
+## Using snapshots
+
+[Snapshot](https://www.vagrantup.com/docs/cli/snapshot.html) documentation contains all the details we need to know but here are the basics.
+
+```shell
+vagrant snapshot save [vm-name] NAME
+```
+
+```shell
+vagrant snapshot restore [vm-name] NAME
+```
+
+```shell
+vagrant snapshot list
+```
+
+```shell
+vagrant snapshot delete [vm-name] NAME
+```
+
+## Troubleshooting
 
 > This is for MacOS, using Brew.
 
