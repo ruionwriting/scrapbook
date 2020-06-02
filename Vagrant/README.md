@@ -20,6 +20,10 @@ vagrant snapshot list
 vagrant snapshot delete [vm-name] NAME
 ```
 
+## Triggers
+
+[Vagrant Triggers](https://www.vagrantup.com/docs/triggers)
+
 ## Troubleshooting
 
 > This is for MacOS, using Brew.
