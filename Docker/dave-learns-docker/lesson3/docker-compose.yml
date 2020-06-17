@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    build:
+      context: .
+    env_file:
+      - ./dev.env
+    environment:
+      - LAST_NAME=Super Happy
+    command: sh -c "echo \"Welcomes ${LAST_NAME}, $FIRST_NAME\" && echo $LAST_NAME && env"
