@@ -4,12 +4,8 @@ Dave will get an error like this one:
 
 ```shell
 $ docker-compose up
-ERROR:
-        Can't find a suitable configuration file in this directory or any
-        parent. Are you in the right directory?
-
-        Supported filenames: docker-compose.yml, docker-compose.yaml
-
+WARNING: The TAG variable is not set. Defaulting to a blank string.
+ERROR: no such image: alpine:: invalid reference format
 ```
 
 ## Why

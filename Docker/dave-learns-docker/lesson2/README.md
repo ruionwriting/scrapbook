@@ -1,6 +1,6 @@
 # Lesson 2
 
-Dav have the following _docker-compose.yml_:
+Dave has the following _docker-compose.yml_:
 
 ```docker
 version: '3'

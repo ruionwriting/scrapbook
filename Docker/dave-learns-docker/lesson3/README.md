@@ -11,7 +11,7 @@ TAG=latest
 
 All because he learned that he could use additional features on Compose.
 
-Dave now have the following _docker-compose.yml_:
+Dave now has the following _docker-compose.yml_:
 
 ```docker
 version: '3'
