@@ -10,6 +10,6 @@ services:
 
 ```
 
-Now Dave get's super excited about his 1st compose file and he runs `docker-compose up`. What you thing will happen?
+Now Dave gets super excited about his 1st compose file and he runs `docker-compose up`. What do you think will happen?
 
 Read the solution [here](SOLUTION.md).
