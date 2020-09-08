@@ -31,3 +31,7 @@ Usage:
 * Copy the JSON file [durgod-iso-uk.json](./durgod-iso-uk.json) into _~/.config/karabiner/assets/complex_modifications_ 1st time or on every change
 * Open Karabiner-Elements, go to _Complex modifications_ tab, _Rules_ and press _Add rule_ (enable all or desired ones):
 * Enjoy a fully functional keyboard
+
+Extra:
+
+* Mapping home/end using [](https://ke-complex-modifications.pqrs.org/json/HomeEnd.json)
