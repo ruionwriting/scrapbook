@@ -24,6 +24,8 @@
 
 <!-- /TOC -->
 
+> Eric the Coder [My beloved Ruby Cheat Sheet](https://dev.to/ericchapman/my-beloved-ruby-cheat-sheet-208o) is a great starting point.
+
 ## Testing
 
 ### Minitest
