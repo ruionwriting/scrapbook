@@ -32,6 +32,7 @@
 
 - [devhints.io](https://devhints.io/minitest)
 - [Minitest Cheat Sheet](https://www.rubypigeon.com/posts/minitest-cheat-sheet/)
+- [The Minitest Style Guide](https://minitest.rubystyle.guide)
 
   Setup:
 
