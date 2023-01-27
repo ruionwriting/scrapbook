@@ -28,6 +28,12 @@ git remote prune origin --dry-run
 
 > `--dry-run` previous what is going to be removed. Run again without the switch to apply to prune.
 
+or automate it:
+
+```shell
+git config --global fetch.prune true
+```
+
 ## Managing Repos
 
 [Splitting a subfolder out into a new repository](https://help.github.com/en/articles/splitting-a-subfolder-out-into-a-new-repository)
